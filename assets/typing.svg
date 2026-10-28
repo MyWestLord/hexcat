@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="60" viewBox="0 0 860 60">
+  <style>
+    .l{font:700 26px 'JetBrains Mono','Fira Code',Consolas,monospace;fill:#ff8a1f;opacity:0;clip-path:inset(0 100% 0 0);animation:type 15s steps(42,end) infinite}
+    .l2{fill:#9dff3a;animation-delay:3s}.l3{fill:#c084fc;animation-delay:6s}.l4{fill:#ff3b5c;animation-delay:9s}.l5{fill:#ffd23f;animation-delay:12s}
+    @keyframes type{0%{opacity:1;clip-path:inset(0 100% 0 0)}10%{clip-path:inset(0 0 0 0)}18%{opacity:1;clip-path:inset(0 0 0 0)}20%,100%{opacity:0}}
+  </style>
+  <text class="l" x="430" y="38" text-anchor="middle">&gt; 9 lives. rugs cost lives, not SOL.</text>
+  <text class="l l2" x="430" y="38" text-anchor="middle">&gt; 8 tarot cards per coin.</text>
+  <text class="l l3" x="430" y="38" text-anchor="middle">&gt; one red card = TRICK.</text>
+  <text class="l l4" x="430" y="38" text-anchor="middle">&gt; the cat never forgets a grave.</text>
+  <text class="l l5" x="430" y="38" text-anchor="middle">&gt; black cats were never bad luck.</text>
+</svg>

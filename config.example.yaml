@@ -1,0 +1,21 @@
+# HEXCAT config — copy to config.yaml
+rpc_url: https://api.mainnet-beta.solana.com   # use a private RPC for real speed
+live: false                                    # paper spells. flip only with a BURNER wallet
+graveyard_path: graveyard.sqlite               # tombstones survive restarts
+lives: 9                                       # stop-losses per night before the cat sleeps
+
+omens:                 # one card past its limit = TRICK
+  max_bundle_pct: 15
+  max_sniper_pct: 12
+  max_cluster_pct: 20
+  max_top10_pct: 35
+  min_organic_kols: 2
+  min_curve_pct: 8
+  max_curve_pct: 92
+  min_sells_seen: 1
+
+exits:
+  size_sol: 1.5
+  tp_ladder: [[1.0, 0.4], [3.0, 0.4]]   # +100% sell 40%, +300% sell 40% (+1 life)
+  trailing_runner_pct: 20
+  stop_loss_pct: 35                     # hitting this costs a life
