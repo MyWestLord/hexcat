@@ -254,6 +254,24 @@ Free for memes, threads and banners. Tag the cat.
 
 </div>
 
+
+### 🖤 Creatives pack v2 — new scenes
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="assets/creatives/v2/wanted.png" width="250"/> | <img src="assets/creatives/v2/magazine.png" width="250"/> | <img src="assets/creatives/v2/trading-card.png" width="250"/> |
+| `wanted.png` · bounty poster | `magazine.png` · cat of the year | `trading-card.png` · holo, 9 HP |
+| <img src="assets/creatives/v2/comic.png" width="250"/> | <img src="assets/creatives/v2/you-vs-cat.png" width="250"/> | <img src="assets/creatives/v2/missing.png" width="250"/> |
+| `comic.png` · "the fourth rug" | `you-vs-cat.png` · 3:33 AM | `missing.png` · your SOL |
+| <img src="assets/creatives/v2/the-cat-arcana.png" width="250"/> | <img src="assets/creatives/v2/gm.png" width="250"/> | <img src="assets/creatives/v2/gn.png" width="250"/> |
+| `the-cat-arcana.png` · major arcana IX | `gm.png` | `gn.png` · 0 lives, the cat sleeps |
+
+<img src="assets/creatives/v2/sticker-sheet.png" width="70%"/><br/><sub><code>sticker-sheet.png</code> · die-cut stickers, transparent PNG</sub>
+
+</div>
+
 ## 🗺 Roadmap
 
 - [x] 8 cards, one-red-card rule, graveyard memory
